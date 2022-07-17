@@ -1,2 +1,2 @@
 # roblox-scripts
-All of my roblox scripts
+All of my released Roblox scripts.
